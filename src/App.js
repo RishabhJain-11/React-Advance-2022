@@ -15,7 +15,7 @@ import React from 'react'
 // import Setup from './tutorial/4-forms/setup/1-controlled-inputs';
 // import Setup from './tutorial/4-forms/setup/2-multiple-inputs';
 
-import Setup from './tutorial/5-useRef/setup/1-useRef-basics'
+import Setup from './tutorial/7-prop-drilling/setup/1-prop-drilling'
 
 function App() {
   return (
